@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eray</h1>
 <h3 align="center">Creative and passionate full-stack developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Node.Js, Express.Js, Mongo DB**
+- 🌱 I’m currently learning **Node.Js, Express.Js, Mongo DB, ReactNative**
 
-- 👨‍💻 All of my projects are available at [eraykoybasi.com.tr](eraykoybasi.com.tr)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

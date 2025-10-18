@@ -64,9 +64,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eraydev&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eraydev&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eraydev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eraydev&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 
